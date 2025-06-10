@@ -1,1 +1,2 @@
-dummy folder learn text file to get used with the basic git commands.
+dummy folder learn text file to get
+ used with the basic git commands.
