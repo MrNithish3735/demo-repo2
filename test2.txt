@@ -1,0 +1,2 @@
+this was the test file to confirm the operations of the git commands after changing the name of the folder
+like it was in the github.
